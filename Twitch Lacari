@@ -1,0 +1,1425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+  <tab>
+    <column>
+      <chat type="twitch" channel="" />
+    </column>
+  </tab>
+  <tab title="top">
+    <column>
+      <chat type="twitch" channel="shroud" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Tfue" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Sequisha" />
+    </column>
+    <column>
+      <chat type="twitch" channel="NICKMERCS" />
+    </column>
+    <column>
+      <chat type="twitch" channel="DrDisrespect" />
+    </column>
+    <column>
+      <chat type="twitch" channel="summit1g" />
+    </column>
+    <column>
+      <chat type="twitch" channel="MOONMOON_OW" />
+    </column>
+    <column>
+      <chat type="twitch" channel="xQcOW" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Ninja" />
+    </column>
+    <column>
+      <chat type="twitch" channel="DrLupo" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Nmplol" />
+    </column>
+    <column>
+      <chat type="twitch" channel="GassyMexican" />
+    </column>
+    <column>
+      <chat type="twitch" channel="cdewx" />
+    </column>
+    <column>
+      <chat type="twitch" channel="TSM_TheOddOne" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Voyboy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="CarcinogenSDA" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Syndicate" />
+    </column>
+    <column>
+      <chat type="twitch" channel="CoconutB" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Kephrii" />
+    </column>
+    <column>
+      <chat type="twitch" channel="bibaboy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="AriGameplays" />
+    </column>
+    <column>
+      <chat type="twitch" channel="chinglishtv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="IzakOOO" />
+    </column>
+    <column>
+      <chat type="twitch" channel="dasMEHDI" />
+    </column>
+    <column>
+      <chat type="twitch" channel="dogdog" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Sco" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Doublelift" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Shortyyguy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Broeki1" />
+    </column>
+    <column>
+      <chat type="twitch" channel="STPeach" />
+    </column>
+    <column>
+      <chat type="twitch" channel="AndyMilonakis" />
+    </column>
+    <column>
+      <chat type="twitch" channel="SirhcEz" />
+    </column>
+    <column>
+      <chat type="twitch" channel="YoDa" />
+    </column>
+    <column>
+      <chat type="twitch" channel="kaceytron" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Grossie_Gore" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Swifty" />
+    </column>
+    <column>
+      <chat type="twitch" channel="KittyPlays" />
+    </column>
+    <column>
+      <chat type="twitch" channel="itsHafu" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Wingsofdeath" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Docgotgame" />
+    </column>
+    <column>
+      <chat type="twitch" channel="GrimmyBear" />
+    </column>
+    <column>
+      <chat type="twitch" channel="StreamerHouse" />
+    </column>
+    <column>
+      <chat type="twitch" channel="C_a_k_e" />
+    </column>
+    <column>
+      <chat type="twitch" channel="CJayride" />
+    </column>
+    <column>
+      <chat type="twitch" channel="stormen" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Cowsep" />
+    </column>
+    <column>
+      <chat type="twitch" channel="djarii" />
+    </column>
+    <column>
+      <chat type="twitch" channel="BobRoss" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Nadeshot" />
+    </column>
+    <column>
+      <chat type="twitch" channel="bchillz" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Gosu" />
+    </column>
+    <column>
+      <chat type="twitch" channel="emilycc" />
+    </column>
+    <column>
+      <chat type="twitch" channel="yznb" />
+    </column>
+    <column>
+      <chat type="twitch" channel="ELoTRiX" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Sophiabot" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Miken_TV" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Magic" />
+    </column>
+    <column>
+      <chat type="twitch" channel="IngameAsylum" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Ziqoftw" />
+    </column>
+    <column>
+      <chat type="twitch" channel="asiagodtonegg3be0" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Aphromoo" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Awkwards_Travel" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Sky_mp3" />
+    </column>
+    <column>
+      <chat type="twitch" channel="TRILLEBARTOM" />
+    </column>
+    <column>
+      <chat type="twitch" channel="rsgloryandgold" />
+    </column>
+    <column>
+      <chat type="twitch" channel="ONSCREEN" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Gale_Adelade" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Valkia" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Sovitia" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Faker" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Dinglederper" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Kregme" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Kaykrisify" />
+    </column>
+    <column>
+      <chat type="twitch" channel="DarksydePhil" />
+    </column>
+    <column>
+      <chat type="twitch" channel="nickbunyun" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Nathanias" />
+    </column>
+    <column>
+      <chat type="twitch" channel="p90princess" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Kittey" />
+    </column>
+    <column>
+      <chat type="twitch" channel="BabaYetu_" />
+    </column>
+    <column>
+      <chat type="twitch" channel="FeralWife" />
+    </column>
+    <column>
+      <chat type="twitch" channel="morberplz" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Doigby" />
+    </column>
+    <column>
+      <chat type="twitch" channel="TwitchPresents" />
+    </column>
+    <column>
+      <chat type="twitch" channel="m0E_tv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="LegendaryLea" />
+    </column>
+    <column>
+      <chat type="twitch" channel="TSM_SmaK" />
+    </column>
+    <column>
+      <chat type="twitch" channel="TwitchPlaysPokemon" />
+    </column>
+    <column>
+      <chat type="twitch" channel="FilthyRobot" />
+    </column>
+    <column>
+      <chat type="twitch" channel="DEMOLITION_D" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Proxyfox" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Monstercat" />
+    </column>
+    <column>
+      <chat type="twitch" channel="QueenE" />
+    </column>
+    <column>
+      <chat type="twitch" channel="pianoimproman" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Sjow" />
+    </column>
+    <column>
+      <chat type="twitch" channel="RandomRambo" />
+    </column>
+    <column>
+      <chat type="twitch" channel="TrumpSC" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Wraxu" />
+    </column>
+    <column>
+      <chat type="twitch" channel="KneeColeslaw" />
+    </column>
+    <column>
+      <chat type="twitch" channel="ungespielt" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Becca" />
+    </column>
+    <column>
+      <chat type="twitch" channel="BeastQT" />
+    </column>
+    <column>
+      <chat type="twitch" channel="DreadzTV" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Hotted89" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Fahzix" />
+    </column>
+    <column>
+      <chat type="twitch" channel="BubbaGame" />
+    </column>
+    <column>
+      <chat type="twitch" channel="OHLANA" />
+    </column>
+    <column>
+      <chat type="twitch" channel="genietFAN" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Trizze" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Giorap90" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Princess_Ze1da" />
+    </column>
+    <column>
+      <chat type="twitch" channel="LIRIK" />
+    </column>
+    <column>
+      <chat type="twitch" channel="dizzy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="CouRageJD" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sodapoppin" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Gotaga" />
+    </column>
+    <column>
+      <chat type="twitch" channel="MontanaBlack88" />
+    </column>
+    <column>
+      <chat type="twitch" channel="CohhCarnage" />
+    </column>
+    <column>
+      <chat type="twitch" channel="forsen" />
+    </column>
+    <column>
+      <chat type="twitch" channel="dakotaz" />
+    </column>
+    <column>
+      <chat type="twitch" channel="loltyler1" />
+    </column>
+    <column>
+      <chat type="twitch" channel="SickMotionLoL" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Dendi" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Chloe_Ventura" />
+    </column>
+    <column>
+      <chat type="twitch" channel="GamesDoneQuick" />
+    </column>
+    <column>
+      <chat type="twitch" channel="steel_tv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Scoom" />
+    </column>
+    <column>
+      <chat type="twitch" channel="VMan7" />
+    </column>
+    <column>
+      <chat type="twitch" channel="skipper" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sinatraa" />
+    </column>
+    <column>
+      <chat type="twitch" channel="BJPofficial" />
+    </column>
+    <column>
+      <chat type="twitch" channel="TSM_Bjergsen" />
+    </column>
+    <column>
+      <chat type="twitch" channel="mira" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Nastjadd" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Pobelter" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Minpojke" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Sharishaxd" />
+    </column>
+    <column>
+      <chat type="twitch" channel="tonkaaaaP" />
+    </column>
+    <column>
+      <chat type="twitch" channel="RAMPAGEishuman" />
+    </column>
+    <column>
+      <chat type="twitch" channel="VeRsuta" />
+    </column>
+    <column>
+      <chat type="twitch" channel="MitchJones" />
+    </column>
+    <column>
+      <chat type="twitch" channel="NaNiwaSC2" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Kolento" />
+    </column>
+    <column>
+      <chat type="twitch" channel="GeersArt" />
+    </column>
+    <column>
+      <chat type="twitch" channel="FourPlayerPodcast" />
+    </column>
+    <column>
+      <chat type="twitch" channel="MerliniDota" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Lulaboo" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Davnell" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Merkery" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Arteezy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Reckful" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Vyolent" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Freakazoid" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Dido_D" />
+    </column>
+    <column>
+      <chat type="twitch" channel="OMGitsfirefoxx" />
+    </column>
+    <column>
+      <chat type="twitch" channel="PhreakStream" />
+    </column>
+    <column>
+      <chat type="twitch" channel="SampeV2" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Envybaer" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Falkenhd" />
+    </column>
+    <column>
+      <chat type="twitch" channel="desRowfighting" />
+    </column>
+    <column>
+      <chat type="twitch" channel="G96K" />
+    </column>
+    <column>
+      <chat type="twitch" channel="runitup" />
+    </column>
+    <column>
+      <chat type="twitch" channel="leveluplive" />
+    </column>
+    <column>
+      <chat type="twitch" channel="cheatbanned" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Sevadus" />
+    </column>
+    <column>
+      <chat type="twitch" channel="AtheneLIVE" />
+    </column>
+    <column>
+      <chat type="twitch" channel="MiaKhalifa" />
+    </column>
+    <column>
+      <chat type="twitch" channel="TinaDayton" />
+    </column>
+    <column>
+      <chat type="twitch" channel="GoodGuyGarry" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Lifecoach1981" />
+    </column>
+    <column>
+      <chat type="twitch" channel="femfreq" />
+    </column>
+    <column>
+      <chat type="twitch" channel="ChanmanV" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Bacon_Donut" />
+    </column>
+    <column>
+      <chat type="twitch" channel="KOSDFF" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Jaxerie" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Meteos" />
+    </column>
+    <column>
+      <chat type="twitch" channel="2mgovercsquared" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Voldesad" />
+    </column>
+    <column>
+      <chat type="twitch" channel="BragoonTV" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Hiko" />
+    </column>
+    <column>
+      <chat type="twitch" channel="KungenTV" />
+    </column>
+    <column>
+      <chat type="twitch" channel="KungenTV" />
+    </column>
+    <column>
+      <chat type="twitch" channel="NoblestSteed" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Eloise" />
+    </column>
+    <column>
+      <chat type="twitch" channel="HarleyPlays" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Kelly_Jean" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Emjanee" />
+    </column>
+    <column>
+      <chat type="twitch" channel="reynad27" />
+    </column>
+    <column>
+      <chat type="twitch" channel="OfficialGeTRiGhT" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Vuxxy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Alisha12287" />
+    </column>
+    <column>
+      <chat type="twitch" channel="PepperJC" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Reddit" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Oxide110" />
+    </column>
+    <column>
+      <chat type="twitch" channel="The Creatures" />
+    </column>
+    <column>
+      <chat type="twitch" channel="chapMAD" />
+    </column>
+    <column>
+      <chat type="twitch" channel="JustKass" />
+    </column>
+    <column>
+      <chat type="twitch" channel="BlackBadge" />
+    </column>
+    <column>
+      <chat type="twitch" channel="baudusau420" />
+    </column>
+    <column>
+      <chat type="twitch" channel="h3h3productions" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Taymoo" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Castro_1021" />
+    </column>
+    <column>
+      <chat type="twitch" channel="GRONKH" />
+    </column>
+    <column>
+      <chat type="twitch" channel="GeekandSundry" />
+    </column>
+    <column>
+      <chat type="twitch" channel="B0aty" />
+    </column>
+    <column>
+      <chat type="twitch" channel="JoshOG" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Rubius" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Nick28T" />
+    </column>
+    <column>
+      <chat type="twitch" channel="KingGothalion" />
+    </column>
+    <column>
+      <chat type="twitch" channel="pokimane" />
+    </column>
+    <column>
+      <chat type="twitch" channel="alanzoka" />
+    </column>
+    <column>
+      <chat type="twitch" channel="DansGaming" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Greekgodx" />
+    </column>
+    <column>
+      <chat type="twitch" channel="JakenbakeLIVE" />
+    </column>
+    <column>
+      <chat type="twitch" channel="A_Seagull" />
+    </column>
+    <column>
+      <chat type="twitch" channel="mendokusaii" />
+    </column>
+    <column>
+      <chat type="twitch" channel="BrownMan" />
+    </column>
+    <column>
+      <chat type="twitch" channel="AdmiralBulldog" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Trick2g" />
+    </column>
+    <column>
+      <chat type="twitch" channel="cloakzy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Giantwaffle" />
+    </column>
+    <column>
+      <chat type="twitch" channel="imaqtpie" />
+    </column>
+    <column>
+      <chat type="twitch" channel="saddummy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Asmongold" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Mongraal" />
+    </column>
+    <column>
+      <chat type="twitch" channel="boxbox" />
+    </column>
+    <column>
+      <chat type="twitch" channel="KingRichard" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Day9tv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Destiny" />
+    </column>
+    <column>
+      <chat type="twitch" channel="itmeJP" />
+    </column>
+    <column>
+      <chat type="twitch" channel="RichardLewisReports" />
+    </column>
+    <column>
+      <chat type="twitch" channel="GoldGlove" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Cryaotic" />
+    </column>
+    <column>
+      <chat type="twitch" channel="C9Sneaky" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Nightblue3" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Trainwreckstv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="MANvsGAME" />
+    </column>
+    <column>
+      <chat type="twitch" channel="nl_Kripp" />
+    </column>
+    <column>
+      <chat type="twitch" channel="QuickyBaby" />
+    </column>
+    <column>
+      <chat type="twitch" channel="SheriffEli" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Lethalfrag" />
+    </column>
+    <column>
+      <chat type="twitch" channel="CobaltStreak" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Pengu" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Towelliee" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Yogscast" />
+    </column>
+    <column>
+      <chat type="twitch" channel="DizzyKitten" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Quin69" />
+    </column>
+    <column>
+      <chat type="twitch" channel="wintergaming" />
+    </column>
+    <column>
+      <chat type="twitch" channel="LilyPichu" />
+    </column>
+    <column>
+      <chat type="twitch" channel="ClintStevens" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Grimmmz" />
+    </column>
+    <column>
+      <chat type="twitch" channel="witwix" />
+    </column>
+    <column>
+      <chat type="twitch" channel="ProfessorBroman" />
+    </column>
+    <column>
+      <chat type="twitch" channel="hanryang1125" />
+    </column>
+    <column>
+      <chat type="twitch" channel="singsing" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Sp4zie" />
+    </column>
+    <column>
+      <chat type="twitch" channel="hexy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Swiftor" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Scarra" />
+    </column>
+    <column>
+      <chat type="twitch" channel="KYR_SP33DY" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Ezekiel_III" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Sick_Nerd" />
+    </column>
+    <column>
+      <chat type="twitch" channel="TaKeTV" />
+    </column>
+    <column>
+      <chat type="twitch" channel="TobiasFate" />
+    </column>
+    <column>
+      <chat type="twitch" channel="pokelawls" />
+    </column>
+    <column>
+      <chat type="twitch" channel="CrReaM" />
+    </column>
+    <column>
+      <chat type="twitch" channel="KayPeaLoL" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Markiplier" />
+    </column>
+    <column>
+      <chat type="twitch" channel="EXBC" />
+    </column>
+    <column>
+      <chat type="twitch" channel="pashaBiceps" />
+    </column>
+    <column>
+      <chat type="twitch" channel="trihex" />
+    </column>
+    <column>
+      <chat type="twitch" channel="shackyhd" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Hyphonix" />
+    </column>
+    <column>
+      <chat type="twitch" channel="supercool42_" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lacari" />
+    </column>
+  </tab>
+  <tab title="following">
+    <column>
+      <chat type="twitch" channel="abdulhd" />
+    </column>
+    <column>
+      <chat type="twitch" channel="aidan_harris" />
+    </column>
+    <column>
+      <chat type="twitch" channel="alan_becker" />
+    </column>
+    <column>
+      <chat type="twitch" channel="alecludford" />
+    </column>
+    <column>
+      <chat type="twitch" channel="allurasc" />
+    </column>
+    <column>
+      <chat type="twitch" channel="andymilonakis" />
+    </column>
+    <column>
+      <chat type="twitch" channel="anniebot" />
+    </column>
+    <column>
+      <chat type="twitch" channel="anomaly" />
+    </column>
+    <column>
+      <chat type="twitch" channel="ausspeedruns" />
+    </column>
+    <column>
+      <chat type="twitch" channel="avoidingthepuddle" />
+    </column>
+    <column>
+      <chat type="twitch" channel="awesomesaucenetwork" />
+    </column>
+    <column>
+      <chat type="twitch" channel="bchillz" />
+    </column>
+    <column>
+      <chat type="twitch" channel="black" />
+    </column>
+    <column>
+      <chat type="twitch" channel="blackbadge" />
+    </column>
+    <column>
+      <chat type="twitch" channel="boedusky" />
+    </column>
+    <column>
+      <chat type="twitch" channel="boxbox" />
+    </column>
+    <column>
+      <chat type="twitch" channel="bradwoto" />
+    </column>
+    <column>
+      <chat type="twitch" channel="bumbo" />
+    </column>
+    <column>
+      <chat type="twitch" channel="bunnyfufuu" />
+    </column>
+    <column>
+      <chat type="twitch" channel="c9sneaky" />
+    </column>
+    <column>
+      <chat type="twitch" channel="carlssonhihixd" />
+    </column>
+    <column>
+      <chat type="twitch" channel="carto" />
+    </column>
+    <column>
+      <chat type="twitch" channel="cloakzy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="cmonbruh" />
+    </column>
+    <column>
+      <chat type="twitch" channel="coconutb" />
+    </column>
+    <column>
+      <chat type="twitch" channel="colossaliscrazy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="comedyrussell" />
+    </column>
+    <column>
+      <chat type="twitch" channel="competeleague" />
+    </column>
+    <column>
+      <chat type="twitch" channel="cowsep" />
+    </column>
+    <column>
+      <chat type="twitch" channel="craigxen" />
+    </column>
+    <column>
+      <chat type="twitch" channel="cro5jokerlive" />
+    </column>
+    <column>
+      <chat type="twitch" channel="cryaotic" />
+    </column>
+    <column>
+      <chat type="twitch" channel="cuda87" />
+    </column>
+    <column>
+      <chat type="twitch" channel="dankquan" />
+    </column>
+    <column>
+      <chat type="twitch" channel="dcs899" />
+    </column>
+    <column>
+      <chat type="twitch" channel="destiny" />
+    </column>
+    <column>
+      <chat type="twitch" channel="discoheat" />
+    </column>
+    <column>
+      <chat type="twitch" channel="disguisedtoast" />
+    </column>
+    <column>
+      <chat type="twitch" channel="dizzy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="doublelift" />
+    </column>
+    <column>
+      <chat type="twitch" channel="drdisrespect" />
+    </column>
+    <column>
+      <chat type="twitch" channel="drhyweke" />
+    </column>
+    <column>
+      <chat type="twitch" channel="dunkstream" />
+    </column>
+    <column>
+      <chat type="twitch" channel="dyannatv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="dyrus" />
+    </column>
+    <column>
+      <chat type="twitch" channel="eleaguetv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="elisxera" />
+    </column>
+    <column>
+      <chat type="twitch" channel="emergencyawesome" />
+    </column>
+    <column>
+      <chat type="twitch" channel="erobb221" />
+    </column>
+    <column>
+      <chat type="twitch" channel="esfandtv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="esl_ruhub_csgo" />
+    </column>
+    <column>
+      <chat type="twitch" channel="faceittv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="faceless" />
+    </column>
+    <column>
+      <chat type="twitch" channel="failarmy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="faker" />
+    </column>
+    <column>
+      <chat type="twitch" channel="fatal1ty" />
+    </column>
+    <column>
+      <chat type="twitch" channel="fivemandown" />
+    </column>
+    <column>
+      <chat type="twitch" channel="forg1venapm" />
+    </column>
+    <column>
+      <chat type="twitch" channel="forsen" />
+    </column>
+    <column>
+      <chat type="twitch" channel="gamesdonequick" />
+    </column>
+    <column>
+      <chat type="twitch" channel="girlonduty" />
+    </column>
+    <column>
+      <chat type="twitch" channel="gosu" />
+    </column>
+    <column>
+      <chat type="twitch" channel="greekgodx" />
+    </column>
+    <column>
+      <chat type="twitch" channel="grossie_gore" />
+    </column>
+    <column>
+      <chat type="twitch" channel="h3h3productions" />
+    </column>
+    <column>
+      <chat type="twitch" channel="hattongames" />
+    </column>
+    <column>
+      <chat type="twitch" channel="holdacious" />
+    </column>
+    <column>
+      <chat type="twitch" channel="hoowy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="idubbbz" />
+    </column>
+    <column>
+      <chat type="twitch" channel="imaqtpie" />
+    </column>
+    <column>
+      <chat type="twitch" channel="imls" />
+    </column>
+    <column>
+      <chat type="twitch" channel="immortalslayer_" />
+    </column>
+    <column>
+      <chat type="twitch" channel="itssky" />
+    </column>
+    <column>
+      <chat type="twitch" channel="iwilldominate" />
+    </column>
+    <column>
+      <chat type="twitch" channel="jaycgee" />
+    </column>
+    <column>
+      <chat type="twitch" channel="jonbams" />
+    </column>
+    <column>
+      <chat type="twitch" channel="jonesyb56" />
+    </column>
+    <column>
+      <chat type="twitch" channel="jusryan" />
+    </column>
+    <column>
+      <chat type="twitch" channel="keemstar" />
+    </column>
+    <column>
+      <chat type="twitch" channel="killerno7" />
+    </column>
+    <column>
+      <chat type="twitch" channel="kitboga" />
+    </column>
+    <column>
+      <chat type="twitch" channel="krazygio" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lacari" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lck" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lcs" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lcs2" />
+    </column>
+    <column>
+      <chat type="twitch" channel="leagueoflegends" />
+    </column>
+    <column>
+      <chat type="twitch" channel="leroyaumedesmorts" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lilypichu" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lindisxd" />
+    </column>
+    <column>
+      <chat type="twitch" channel="linustech" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lol_peanut" />
+    </column>
+    <column>
+      <chat type="twitch" channel="loltyler1" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lolyou" />
+    </column>
+    <column>
+      <chat type="twitch" channel="ludiqpich198" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lushsuxx" />
+    </column>
+    <column>
+      <chat type="twitch" channel="lyonandthepryde" />
+    </column>
+    <column>
+      <chat type="twitch" channel="m0xyy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="macaiyla" />
+    </column>
+    <column>
+      <chat type="twitch" channel="malena_tudi" />
+    </column>
+    <column>
+      <chat type="twitch" channel="matrixis" />
+    </column>
+    <column>
+      <chat type="twitch" channel="megoh_" />
+    </column>
+    <column>
+      <chat type="twitch" channel="meloniemac" />
+    </column>
+    <column>
+      <chat type="twitch" channel="mendokusaii" />
+    </column>
+    <column>
+      <chat type="twitch" channel="miltontpike1" />
+    </column>
+    <column>
+      <chat type="twitch" channel="miniladdd" />
+    </column>
+    <column>
+      <chat type="twitch" channel="mira" />
+    </column>
+    <column>
+      <chat type="twitch" channel="mitchjones" />
+    </column>
+    <column>
+      <chat type="twitch" channel="mizkif" />
+    </column>
+    <column>
+      <chat type="twitch" channel="modesttim" />
+    </column>
+    <column>
+      <chat type="twitch" channel="mrdolphin" />
+    </column>
+    <column>
+      <chat type="twitch" channel="mrmouton" />
+    </column>
+    <column>
+      <chat type="twitch" channel="nani" />
+    </column>
+    <column>
+      <chat type="twitch" channel="nasa" />
+    </column>
+    <column>
+      <chat type="twitch" channel="netglow" />
+    </column>
+    <column>
+      <chat type="twitch" channel="nickbunyun" />
+    </column>
+    <column>
+      <chat type="twitch" channel="nightblue3" />
+    </column>
+    <column>
+      <chat type="twitch" channel="nmplol" />
+    </column>
+    <column>
+      <chat type="twitch" channel="nocopyrightsounds" />
+    </column>
+    <column>
+      <chat type="twitch" channel="nymn" />
+    </column>
+    <column>
+      <chat type="twitch" channel="omgitsfirefoxx" />
+    </column>
+    <column>
+      <chat type="twitch" channel="op__ash" />
+    </column>
+    <column>
+      <chat type="twitch" channel="pajlada" />
+    </column>
+    <column>
+      <chat type="twitch" channel="panda4994" />
+    </column>
+    <column>
+      <chat type="twitch" channel="pewdiepie" />
+    </column>
+    <column>
+      <chat type="twitch" channel="phreakstream" />
+    </column>
+    <column>
+      <chat type="twitch" channel="pinkwardlol" />
+    </column>
+    <column>
+      <chat type="twitch" channel="plebo" />
+    </column>
+    <column>
+      <chat type="twitch" channel="ploo" />
+    </column>
+    <column>
+      <chat type="twitch" channel="pokelawls" />
+    </column>
+    <column>
+      <chat type="twitch" channel="pokimane" />
+    </column>
+    <column>
+      <chat type="twitch" channel="postmalone" />
+    </column>
+    <column>
+      <chat type="twitch" channel="rajjpatel" />
+    </column>
+    <column>
+      <chat type="twitch" channel="ray__c" />
+    </column>
+    <column>
+      <chat type="twitch" channel="reckful" />
+    </column>
+    <column>
+      <chat type="twitch" channel="rhinocrunch" />
+    </column>
+    <column>
+      <chat type="twitch" channel="riotgames" />
+    </column>
+    <column>
+      <chat type="twitch" channel="roundedtiktak" />
+    </column>
+    <column>
+      <chat type="twitch" channel="rush" />
+    </column>
+    <column>
+      <chat type="twitch" channel="rustafied" />
+    </column>
+    <column>
+      <chat type="twitch" channel="rustconquest" />
+    </column>
+    <column>
+      <chat type="twitch" channel="s1kelm" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sadkitcat" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sakis2011" />
+    </column>
+    <column>
+      <chat type="twitch" channel="satavej" />
+    </column>
+    <column>
+      <chat type="twitch" channel="scudpunk" />
+    </column>
+    <column>
+      <chat type="twitch" channel="serynitor" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sethbling" />
+    </column>
+    <column>
+      <chat type="twitch" channel="shackyhd" />
+    </column>
+    <column>
+      <chat type="twitch" channel="shadowfrax" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sheriffeli" />
+    </column>
+    <column>
+      <chat type="twitch" channel="shroud" />
+    </column>
+    <column>
+      <chat type="twitch" channel="singsing" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sippytango" />
+    </column>
+    <column>
+      <chat type="twitch" channel="skippypoppin" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sleightlymusical" />
+    </column>
+    <column>
+      <chat type="twitch" channel="slwalekop" />
+    </column>
+    <column>
+      <chat type="twitch" channel="slygumbi" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sodapoppin" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sonofzeus_tv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="souljaboy" />
+    </column>
+    <column>
+      <chat type="twitch" channel="summit1g" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sweet_anita" />
+    </column>
+    <column>
+      <chat type="twitch" channel="sysnickl" />
+    </column>
+    <column>
+      <chat type="twitch" channel="tangotek" />
+    </column>
+    <column>
+      <chat type="twitch" channel="tcthief" />
+    </column>
+    <column>
+      <chat type="twitch" channel="tempo_jones" />
+    </column>
+    <column>
+      <chat type="twitch" channel="the_eggsalad" />
+    </column>
+    <column>
+      <chat type="twitch" channel="thegamecrazed" />
+    </column>
+    <column>
+      <chat type="twitch" channel="therealslump" />
+    </column>
+    <column>
+      <chat type="twitch" channel="tobiasfate" />
+    </column>
+    <column>
+      <chat type="twitch" channel="toppatenga" />
+    </column>
+    <column>
+      <chat type="twitch" channel="trainwreckstv" />
+    </column>
+    <column>
+      <chat type="twitch" channel="trausi" />
+    </column>
+    <column>
+      <chat type="twitch" channel="trick2g" />
+    </column>
+    <column>
+      <chat type="twitch" channel="trihardgodcx" />
+    </column>
+    <column>
+      <chat type="twitch" channel="trilluxe" />
+    </column>
+    <column>
+      <chat type="twitch" channel="tthump" />
+    </column>
+    <column>
+      <chat type="twitch" channel="twitchrivals" />
+    </column>
+    <column>
+      <chat type="twitch" channel="twitchuser_567" />
+    </column>
+    <column>
+      <chat type="twitch" channel="uberdanger" />
+    </column>
+    <column>
+      <chat type="twitch" channel="unboxholics" />
+    </column>
+    <column>
+      <chat type="twitch" channel="vertiigogaming" />
+    </column>
+    <column>
+      <chat type="twitch" channel="whitesushi" />
+    </column>
+    <column>
+      <chat type="twitch" channel="xpeke" />
+    </column>
+    <column>
+      <chat type="twitch" channel="xqcow" />
+    </column>
+    <column>
+      <chat type="twitch" channel="xxspacetacoxx" />
+    </column>
+    <column>
+      <chat type="twitch" channel="yassuo" />
+    </column>
+    <column>
+      <chat type="twitch" channel="yuber" />
+    </column>
+    <column>
+      <chat type="twitch" channel="zetheone" />
+    </column>
+    <column>
+      <chat type="twitch" channel="zuckles" />
+    </column>
+    <column>
+      <chat type="twitch" channel="" />
+    </column>
+    <column>
+      <chat type="twitch" channel="skashroudle" />
+    </column>
+    <column>
+      <chat type="twitch" channel="rasta" />
+    </column>
+    <column>
+      <chat type="twitch" channel="shovemyfenderin" />
+    </column>
+    <column>
+      <chat type="twitch" channel="shovemyfenderin" />
+    </column>
+    <column>
+      <chat type="twitch" channel="Dolev_" />
+    </column>
+  </tab>
+</layout>
